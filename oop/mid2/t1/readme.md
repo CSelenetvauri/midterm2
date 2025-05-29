@@ -29,7 +29,7 @@ Here’s an example of the output after the transformations:
 - cSI6
 - cCCjI
 
-![img]([https://github.com/CSelenetvauri/midterm2/blob/main/image.png](https://github.com/CSelenetvauri/midterm2/blob/main/oop/mid2/t1/image.png) "text")
+![img](https://github.com/CSelenetvauri/midterm2/blob/main/image.png](https://github.com/CSelenetvauri/midterm2/blob/main/oop/mid2/t1/image.png "text")
 
 
 
